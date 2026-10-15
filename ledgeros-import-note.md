@@ -1,1 +1,0 @@
-LedgerOS import staging note.
